@@ -67,7 +67,7 @@ npx skills add alchaincyf/huashu-design
 npx skills add alchaincyf/huashu-design
 ```
 
-然后在 Claude Code 里直接说话：
+然后在 Claude Code / Codex / Cursor 等任意支持 skills 的 agent 里直接说话：
 
 ```
 「做一份 AI 心理学的演讲 PPT，推荐 3 个风格方向让我选」
